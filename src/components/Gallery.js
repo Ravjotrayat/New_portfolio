@@ -8,8 +8,8 @@ export default function Gallery(props) {
         { src: require("../image/image5.jpg"), text: "Detection of Cotton Leaves Diseases" },
         { src: require("../image/image4.jpg"), text: "BasketBall" },
         { src: require("../image/image3.jpg"), text: "BasketBall" },
-        { src: require("../image/image2.jpg"), text: "Workshop" },
-        { src: require("../image/image1.jpg"), text: "BasketBall" },
+        { src: require("../image/image1.jpg"), text: "Workshop" },
+        { src: require("../image/image2.jpg"), text: "BasketBall" },
         // Add more images with their descriptions here
     ];
 
