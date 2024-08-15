@@ -1,5 +1,5 @@
 import React from 'react';
-import { FaLinkedin, FaGithub, FaTwitter } from 'react-icons/fa'; // Icons for social media
+// import { FaLinkedin, FaGithub, FaTwitter } from 'react-icons/fa'; // Icons for social media
 import profilePhoto from './pic.jpg'; 
 export default function About(props) {
     return (

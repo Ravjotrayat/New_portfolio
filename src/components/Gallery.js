@@ -4,7 +4,7 @@ import '../Gallery.css'; // Assuming you save the CSS above in this file
 
 export default function Gallery(props) {
     const images = [
-        { src: "./image6.jpg", text: "Helmet Detection" },
+        { src: "image6.jpg", text: "Helmet Detection" },
         { src: "image5.jpg", text: "Detection of Cotton Leaves Diseases" },
         { src: "image4.jpg", text: "BasketBall" },
         { src: "image3.jpg", text: "BasketBall" },
