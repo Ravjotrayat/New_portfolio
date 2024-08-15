@@ -31,7 +31,7 @@ export default function Education(props){
                                 <h3>Intermediate</h3>
                                 <div className="mh-education-details">
                                     <div className="mh-education-item">
-                                        <h4>Intermediate From <a href="https://davbistupur.org">Gulmohur High School, Telco, Jamshedpur</a></h4>
+                                        <h4>Intermediate From <a href="https://gulmohurschool.org/">Gulmohur High School, Telco, Jamshedpur</a></h4>
                                         <div className="mh-eduyear">2020</div>
                                         <p>
                                             PCMC (Physics, Chemistry,Maths and Computer)
