@@ -107,7 +107,7 @@
 
 .intro-text {
   font-size: 1.2em;
-  color: #555;
+  color: #291e1e;
   border:1px solid black;
   display: inline-block;
   padding: 8px;
@@ -122,13 +122,26 @@
 .name {
   font-size: 2.5em; /* Larger size for the name */
   margin: 10px 0;
-  color: #333;
+  color: #291e1e;
+  
 }
 
 .underline {
   text-decoration: underline;
   font-weight: bold;
+  color: #291e1e;
+  
 }
+
+.email{
+  color: #291e1e;
+  
+}
+.phone{
+  color: #291e1e;
+  
+}
+
 
 .social-icons a {
   margin-right: 15px;

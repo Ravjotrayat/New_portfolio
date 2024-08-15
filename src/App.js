@@ -22,7 +22,7 @@ function App() {
   return (
     
       <Router>
-      <Navbar title="PortFolio" />
+      <Navbar title="Ravjot Singh" />
 
       <Routes>
         {/* Default Route to display About component */}
