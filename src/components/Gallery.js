@@ -1,6 +1,7 @@
 import React from "react";
 import '../Gallery.css'; // Assuming you save the CSS above in this file
 
+
 export default function Gallery(props) {
     const images = [
         { src: "image6.jpg", text: "Helmet Detection" },
