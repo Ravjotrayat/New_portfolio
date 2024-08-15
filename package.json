@@ -1,8 +1,12 @@
 {
-  "name": "my-app",
+  "name": "New-Portfolio",
   "version": "0.1.0",
   "private": true,
+<<<<<<< HEAD
   "homepage": "https://Ravjotrayat.github.io/New_portfolio",
+=======
+  "homepage": "https://Ravjotrayat.github.io/New_Portfolio",
+>>>>>>> 4ac8dad5a8876e60584746ddf633e69a5228eeb7
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
@@ -17,13 +21,19 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -b main -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
+<<<<<<< HEAD
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"    
 
+=======
+    "eject": "react-scripts eject"
+>>>>>>> 4ac8dad5a8876e60584746ddf633e69a5228eeb7
   },
   "eslintConfig": {
     "extends": [
@@ -42,7 +52,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-
-
   }
 }
