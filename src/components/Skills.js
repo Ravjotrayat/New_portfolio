@@ -28,7 +28,7 @@ export default function Skills(props){
                                 <div className="skill-percentage">70%</div>
                             </div>
                             <div className="progress-bar">
-                                <div className="progress" style={{ width: '85%' }}></div>
+                                <div className="progress" style={{ width: '70%' }}></div>
                             </div>
                         </div>
 
@@ -38,7 +38,7 @@ export default function Skills(props){
                                 <div className="skill-percentage">70%</div>
                             </div>
                             <div className="progress-bar">
-                                <div className="progress" style={{ width: '80%' }}></div>
+                                <div className="progress" style={{ width: '70%' }}></div>
                             </div>
                         </div>
 
@@ -48,7 +48,7 @@ export default function Skills(props){
                                 <div className="skill-percentage">90%</div>
                             </div>
                             <div className="progress-bar">
-                                <div className="progress" style={{ width: '75%' }}></div>
+                                <div className="progress" style={{ width: '95%' }}></div>
                             </div>
                         </div>
 
@@ -58,7 +58,7 @@ export default function Skills(props){
                                 <div className="skill-percentage">80%</div>
                             </div>
                             <div className="progress-bar">
-                                <div className="progress" style={{ width: '70%' }}></div>
+                                <div className="progress" style={{ width: '80%' }}></div>
                             </div>
                         </div>
 
@@ -85,7 +85,7 @@ export default function Skills(props){
                             <div className="skill-name">Communication</div>
                         </li>
                         <li>
-                            <div className="skill-circle" data-progress="85"></div>
+                            <div className="skill-circle" data-progress="95"></div>
                             <div className="skill-name">Teamwork</div>
                         </li>
                         <li>
