@@ -15,6 +15,12 @@ export default function Gallery(props) {
         { src: require("../image/image1.jpg"), text: "Workshop" },
 
         { src: require("../image/image2.jpg"), text: "BasketBall" },
+
+        { src: require("../image/image7.jpg"), text: "NPTEL-The Joy Of Computing Python" },
+
+        { src: require("../image/image8.jpg"), text: "Lagozon Edutech (Intership)" },
+
+        { src: require("../image/image9.jpg"), text: "Java Full Stack from TalentNext,Wipro" },
         
         // Add more images with their descriptions here
     ];
