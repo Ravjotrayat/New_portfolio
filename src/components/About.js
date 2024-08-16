@@ -42,6 +42,10 @@ export default function About(props) {
     <a href="https://drive.google.com/drive/folders/1lWPGBLdUFJa3fCJRns_j3nmLvYAYHfQN?usp=sharing" target="_blank" rel="noopener noreferrer" className="cv-button">
       Download CV
     </a>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://drive.google.com/drive/folders/1yNiFo5gFMLUSWWGm85t1BC0FhFcukVK8?usp=drive_link
+" target="_blank" rel="noopener noreferrer" className="cv-button2" >View Certificates</a>
+
   </div>
 </div>
 

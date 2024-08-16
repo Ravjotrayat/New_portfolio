@@ -304,10 +304,30 @@
   margin-top: 20px;
 }
 
+.cv-button2{
+  border: none;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 1.2em;
+  color: #fff;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  border-radius: 30px;
+  padding: 15px 29px 14px 29px;
+  margin-top: 20px;
+  background-color: #51a2f8;
+  transition: background-color 0.3s ease,box-shadow 0.3s ease ;
+}
+
 .cv-button:hover {
   background-color: #11996c;
   box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
 }
+.cv-button2:hover{
+  background-color: #11996c;
+  box-shadow:0 6px 12px rgba(0, 0, 0, 0.2);
+  
+} 
+
 .about-content {
   position: relative;
   animation: slideInFromRight 1s ease-in-out forwards;
