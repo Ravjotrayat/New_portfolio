@@ -2,12 +2,11 @@
     background-color: #f8f9fa;
     border-radius: 10px;
     box-shadow: 0 4px 4px rgba(0, 0, 0, 0.1);
-    padding: 20px;
-    
-    transition: transform 0.3s, box-shadow 0.3s , background-color 0.3s ease;
     border: 2px solid black;
-
-    margin-top: 15px;
+    margin-top: 20%;
+    padding: 20px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease, background-color 0.3s ease;
+    background-image: linear-gradient(to bottom right, #f7f7f7, #eaeaea);
 }
 
 .mh-experience{
@@ -20,25 +19,9 @@
 }
 
 .mh-education-box:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
-    background-color: #f0f8ff;
-}
-
-.mh-education-box{
-    margin-top: 20%;
-    padding: 20px;
-    background-color: #ffffff;
-    border-radius: 8px;
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2), 0 6px 20px rgba(0, 0, 0, 0.19);
-    transition: transform 0.3s ease, box-shadow 0.3s ease, background-color 0.3s ease;
-    background-image: linear-gradient(to bottom right, #f7f7f7, #eaeaea);
-}
-
-.mh-education-box:hover {
-    transform: translateY(-10px) scale(1.02); /* Slightly scale the box and move it up */
+    transform: translateY(-10px) scale(1.02); 
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2), 0 12px 24px rgba(0, 0, 0, 0.2);
-    background-color: #f0f8ff; /* Changes to a light blue color on hover */
+    background-color: #f0f8ff;
 }
 
 .mh-education h3 {
@@ -47,6 +30,12 @@
     color: #343a40;
     font-family: 'Lucida Sans', sans-serif;
     font-weight: bold;
+   
+}
+.mh-education-box h3{
+    text-decoration: underline;
+    font-weight: bold;
+    text-shadow: 1px 1px #9ff3e6;
 }
 
 .mh-education-item h4 {

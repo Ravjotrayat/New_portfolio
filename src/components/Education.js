@@ -14,7 +14,7 @@ export default function Education(props){
                                 <h3>Bachleor's Degree</h3>
                                 <div className="mh-education-details">
                                     <div className="mh-education-item">
-                                        <h4>Bachelor's of Technology From <a href="http://www.giet.edu/">GIET UNIVERSITY, Gunupur</a></h4>
+                                        <h4> <a href="http://www.giet.edu/">GIET UNIVERSITY, Gunupur</a></h4>
                                         <div className="mh-eduyear">2020-2024</div>
                                         <p>
                                             Computer Science Engg.
@@ -31,7 +31,7 @@ export default function Education(props){
                                 <h3>Intermediate</h3>
                                 <div className="mh-education-details">
                                     <div className="mh-education-item">
-                                        <h4>Intermediate From <a href="https://gulmohurschool.org/">Gulmohur High School, Telco, Jamshedpur</a></h4>
+                                        <h4><a href="https://gulmohurschool.org/">Gulmohur High School, Telco, Jamshedpur</a></h4>
                                         <div className="mh-eduyear">2020</div>
                                         <p>
                                             PCMC (Physics, Chemistry,Maths and Computer)
