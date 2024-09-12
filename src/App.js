@@ -7,7 +7,7 @@ import Contact from './components/Contact'
 import Gallery from './components/Gallery'
 import Skills from './components/Skills'
 import Education from './components/Education'
-import React from "react";
+import React, { useEffect } from "react";
 import { FaLinkedin, FaGithub, FaTwitter,FaPhone,FaEnvelope } from 'react-icons/fa'; // Icons for social media
 import {
   BrowserRouter as Router,
@@ -19,6 +19,8 @@ import {
 
 
 function App() {
+  
+
   return (
     
       <Router>
