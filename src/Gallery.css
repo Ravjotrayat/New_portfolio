@@ -49,10 +49,10 @@
     border-radius: 10px;
 }
 
-.gallery-item:hover {
-    transform: rotateY(15deg) rotateX(15deg) scale(1.1); /* 3D rotation and scaling */
-    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.3); /* Enhanced shadow for a more pronounced 3D effect */
-}
+/* .gallery-item:hover {
+    transform: rotateY(15deg) rotateX(15deg) scale(1.1); 
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.3); 
+} */
 
 .gallery-item .overlay {
     position: absolute;
